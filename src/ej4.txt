@@ -1,0 +1,19 @@
+Cálculo de Parámetros en IA - Algoritmo para Velocidad Media: Desarrolla un algoritmo que calcule la velocidad media,
+considerando que es parte de un sistema de IA para el análisis de datos de transporte. Reflexiona sobre cómo este
+cálculo podría integrarse en un sistema más grande de IA y qué otros parámetros podrían ser importantes para analizar en
+este contexto.
+
+
+    Ejemplo de ejecución en un contexto de IA:
+    Introduzca la distancia recorrida (km).
+    370
+    ...
+
+Solucion:
+
+El codigo esta implementado en el archivo Ejercicio4.java. Sin embargo, la integracion del calculo de la velocidad media
+en un sistema de IA para el analisis de transporte requiere una combinacion de tecnicas de analisis de datos, una
+comprension del contexto del transporte, y la capacidad de procesar y analizar datos en tiempo real.
+Otros parametros que podrian ser importantes para este contexto son, por ejemplo, la variacion de la velocidad ya que no
+hacemos el viaje a una velocidad constante, el tiempo de paradas, el consumo de combustible del vehiculo, condiciones
+meteorologicas que van a afectar de alguna manera a nuestra velocidad media durante el viaje.
