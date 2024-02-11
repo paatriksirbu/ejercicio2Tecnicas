@@ -17,6 +17,6 @@ La integración del cálculo de la velocidad media en sistemas de IA para análi
 
 ## Contacto
 
-Patrik Paul Sirbu - (https://github.com/paatriksirbu))
+Patrik Paul Sirbu - https://github.com/paatriksirbu
 
-Enlace del proyecto: (https://github.com/paatriksirbu/ejercicio2Tecnicas.git)
+Enlace del proyecto: https://github.com/paatriksirbu/ejercicio2Tecnicas.git
