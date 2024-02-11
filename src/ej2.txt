@@ -10,3 +10,9 @@ Fin
 
 Solucion:
 
+Antes de resolver el ejercicio, debemos saber lo que es el Machine Learning. Esto es un subcampo de la inteligencia
+artificial que se centra en el desarrollo de algoritmos que permiten a las maquinas aprender de los datos y hacer
+predicciones o tomar decisiones basadas en esos datos sin ser explicitamente programadas a realizar una tarea especifica.
+
+
+
