@@ -14,5 +14,14 @@ Antes de resolver el ejercicio, debemos saber lo que es el Machine Learning. Est
 artificial que se centra en el desarrollo de algoritmos que permiten a las maquinas aprender de los datos y hacer
 predicciones o tomar decisiones basadas en esos datos sin ser explicitamente programadas a realizar una tarea especifica.
 
+En este contexto, valor1, valor2 y cadena 1 podrian ser o la etiqueta o el resultado predicho por un modelo ML.
+se puede inferir que las operaciones realizadas sobre estas variables simulan el preprocesamiento de datos, la
+aplicación de un modelo de ML, y la interpretación de sus resultados. Este proceso subraya la importancia de las
+variables y operaciones en el aprendizaje automático para transformar y analizar datos, facilitando así predicciones o
+clasificaciones basadas en aprendizajes previos.
+
+Como no se nos proporciona ningun codigo dentro del algoritmo, podriamos asignar valores a valor1 y valor2, cadena1 lo
+usariamos para almacenar el resultado de una prediccion o clasificacion. Los valores de las operaciones que se pueden
+realizar con los valores 1 y 2 se tomaria una decision para asignarle un valor a cadena1.
 
 
