@@ -9,3 +9,12 @@ Fin
 
 Solucion:
 
+La identificacion y correccion de errores logicos en modelos de IA son obligatorios para asegurar la precision,
+fiabilidad y eficacia. Un error logico en variables como valor1 y valor2 pueden llevar a interpretaciones incorrectas y
+predicciones erroneas. La precision nos asegura la fiablidad de los modelos, permite un uso eficiente de recursos y
+aumentan la eficacia.
+Para corregir un algoritmo con errores lógicos, se deben seguir pasos como la revisión de la lógica de operaciones con
+las variables, la validación de los datos de entrada, la realización de pruebas para identificar y corregir errores,
+y el análisis de resultados para confirmar la coherencia y lógica del modelo.
+
+
