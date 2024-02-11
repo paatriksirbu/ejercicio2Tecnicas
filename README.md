@@ -13,3 +13,10 @@ La corrección de errores lógicos en modelos de IA es crucial para garantizar s
 # Calculo de Parametros en IA - Algoritmo para Velocidad Media.
 
 La integración del cálculo de la velocidad media en sistemas de IA para análisis de transporte, como se muestra en `Ejercicio4.java`, exige un enfoque multidisciplinario que incluye análisis de datos avanzados, entendimiento del contexto de transporte, y habilidades para procesar y analizar datos en tiempo real. Además, es crucial considerar otros parámetros como la variabilidad de la velocidad, el tiempo de paradas, el consumo de combustible, y las condiciones meteorológicas, ya que todos influyen en la velocidad media y en la eficiencia general del viaje.
+
+
+## Contacto
+
+Patrik Paul Sirbu - (https://github.com/paatriksirbu))
+
+Enlace del proyecto: (https://github.com/paatriksirbu/ejercicio2Tecnicas.git)
