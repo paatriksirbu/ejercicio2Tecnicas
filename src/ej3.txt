@@ -1,0 +1,11 @@
+Errores Lógicos en Modelos de IA - Identificación y Corrección: Este algoritmo tiene un error lógico. Imagina que
+'valor1' y 'valor2' son parte de un modelo de IA. ¿Cómo afectaría este error al modelo? Discute la importancia de la
+precisión y la corrección en la manipulación de datos para modelos de IA y propón cómo podrías corregir este algoritmo.
+
+
+Algo QueHaceIA
+...
+Fin
+
+Solucion:
+
