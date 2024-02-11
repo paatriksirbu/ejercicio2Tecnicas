@@ -1,0 +1,12 @@
+Operaciones en Machine Learning - Interpretación de Resultados: Interpreta qué mostrará el siguiente algoritmo si se
+considera que las operaciones y variables están relacionadas con un modelo de machine learning.
+Por ejemplo, ¿cómo podrían 'valor1', 'valor2' y 'cadena1' representar diferentes aspectos de un proceso de aprendizaje
+automático, como características, etiquetas o resultados de modelos?
+
+
+Algo QueVeremosML
+...
+Fin
+
+Solucion:
+
