@@ -1,0 +1,23 @@
+Análisis de Datos en IA - Transformación y Visualización de Variables: Analiza el siguiente algoritmo imaginando que 'a'
+y 'b' son variables que representan datos en un modelo de IA. ¿Cómo cambiarían los valores de estas variables a lo largo
+del algoritmo si representaran, por ejemplo, entradas de datos para un modelo predictivo? Investiga y discute cómo la
+transformación y visualización de datos son importantes en el contexto de la IA.
+
+    Algo ValoresDeLasVariablesIA
+    variable a, b: entero
+    Inicio
+       a <- 3
+       ...
+    Fin
+
+Solucion:
+
+Tenemos dos variables, a y b, que estan destinadas a ser entradas de datos para un modelo de IA. Sin embargo, solo se
+inicializa la variable a con un valor de 3 y no se especifica ninguna operacion para b. Teniendo en cuanta que hablamos
+sobre un modelo predictivo, debemos entender que el valor inicial de las entradas no deberia cambiar durante el analisis
+del algoritmo, es decir, el valor de entrada permanece constante. Los valores intermedios o finales podrian variar segun
+las operaciones realizadas en el algoritmo.
+
+Aunque no se detallan mas transformaciones de datos, nos muestra la importancia de manipular variables para optimizar
+modelos predictivos. Mientras a y b se mantienen constantes, el analisis y transformacion de los datos son esenciales
+para la eficacia de los modelos de IA.
